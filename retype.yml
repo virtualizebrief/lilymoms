@@ -72,6 +72,9 @@ links:                        # Custom links to add to the top bar
                               # See also: footer.links
   - text: Home                # The text to use for the link
     link: https://example.com # Link to an internal file or external URL
+  - text: Blog                # The text to use for the link
+    link: /blog # Link to an internal file or external URL
+    icon: log
   - text: API
     link: /getting-started.md # Link to an internal file
     icon: gear                # A custom icon name, :emoji:, <svg>, or
