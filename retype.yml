@@ -56,15 +56,15 @@ url: https://example.com/docs # Can also include a protocol
 
 branding:
   title: Lily Moms of Evans              # Your custom website title; keep it short
-  logo: /logo.png             # Path to a logo file
-  logoDark: /logo-dark.png    # Path to a logo file to use in dark mode
+  logo: /images/logo.png             # Path to a logo file
+  logoDark: /images/logo-dark.png    # Path to a logo file to use in dark mode
   logoAlign: right            # Align the logo to the right or the left
-  label: Docs                 # Optional label
+  label: v1.0                 # Optional label
                               # To remove the label, remove this config
   colors:
     label:                    # Label colors
-      text: "#ffffff"         # Custom color for the label text
-      background: "#ff0000"   # Custom color for the label background
+      text: "#1F81FF"         # Custom color for the label text
+      background: "#E1EDFF"   # Custom color for the label background
 
 # -----------------------------------------------------------------------------
 
