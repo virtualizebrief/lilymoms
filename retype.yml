@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Lily Moms at Redeemer Church              # Your custom website title; keep it short
+  title: Lily Moms at Redeemer              # Your custom website title; keep it short
   logo: /files/flowers.png             # Path to a logo file
   logoDark: /files/flowers.png    # Path to a logo file to use in dark mode
   logoAlign: left            # Align the logo to the right or the left
