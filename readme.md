@@ -3,6 +3,8 @@ icon: home
 label: Home
 ---
 
+![](banner-flowers.jpg)
+
 # Lily Moms at Redeemer ⛪
 
 Christian ministry that meets at Redeemer Church of Evans which supports and builds community among mothers of children from conception through kindergarten.
@@ -11,7 +13,7 @@ Christian ministry that meets at Redeemer Church of Evans which supports and bui
 🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
 !!!
 
-## Life in the Little Years
+## ![](/files/flower.png) Life in the Little Years
 
 This season of motherhood is full of messy moments and we are all learning to navigate what it means to raise small children. When we meet, we talk about topics that are related to this stage of our lives. We talk about how to care for our kids, our homes, famlies and ourselves.
 
