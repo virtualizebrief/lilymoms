@@ -23,17 +23,23 @@ links:                        # Custom links to add to the top bar
                               # See also: footer.links
   - text: Home                # The text to use for the link
     link: / # Link to an internal file or external URL
-    icon: home
+    icon: :house:
 
   - text: Facebook                # The text to use for the link
     link: https://www.facebook.com/p/Lily-Moms-at-Redeemer-100068504359386 # Link to an internal file or external URL
-    icon: repo
+    icon: :blue_book:
     target: blank
 
   - text: Contact
     link: /contact.md # Link to an internal file
-    icon: mail                # A custom icon name, :emoji:, <svg>, or
+    icon: :postbox:                # A custom icon name, :emoji:, <svg>, or
                               # a path to a file
+                              
+  - text: Redeemer Church                # The text to use for the link
+    link: https://www.redeemerevans.org/ # Link to an internal file or external URL
+    icon: :church:
+    target: blank
+    
     iconAlign: left           # Icon alignment, to the left or right
     # target: blank             # Custom target
                               # Use "blank" to open link in a new window
