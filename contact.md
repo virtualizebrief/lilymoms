@@ -4,7 +4,7 @@ layout: page
 
 # Contact
 
-Feel free to reachout.
+💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please do reach out to us.
 
 ```js !# 📨 Email
 office@redeemerevans.org
