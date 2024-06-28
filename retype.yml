@@ -22,13 +22,14 @@ favicon: /files/flower.png   # Path to a custom favicon, or
 links:                        # Custom links to add to the top bar
                               # See also: footer.links
   - text: Home                # The text to use for the link
-    link: https://example.com # Link to an internal file or external URL
+    link: / # Link to an internal file or external URL
+    icon: home
   - text: Blog                # The text to use for the link
     link: /blog # Link to an internal file or external URL
     icon: log
   - text: Contact
     link: /getting-started.md # Link to an internal file
-    icon: gear                # A custom icon name, :emoji:, <svg>, or
+    icon: mail                # A custom icon name, :emoji:, <svg>, or
                               # a path to a file
     iconAlign: left           # Icon alignment, to the left or right
     target: blank             # Custom target
