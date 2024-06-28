@@ -1,6 +1,6 @@
 ---
 icon: home
-label: Welcome
+label: Home
 ---
 
 # Lily Moms at Redeemer ⛪
