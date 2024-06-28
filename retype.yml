@@ -28,11 +28,11 @@ links:                        # Custom links to add to the top bar
     link: /blog/readme.md # Link to an internal file or external URL
     icon: log
   - text: Contact
-    link: /getting-started.md # Link to an internal file
+    link: /contact.md # Link to an internal file
     icon: mail                # A custom icon name, :emoji:, <svg>, or
                               # a path to a file
     iconAlign: left           # Icon alignment, to the left or right
-    target: blank             # Custom target
+    # target: blank             # Custom target
                               # Use "blank" to open link in a new window
 
 # -----------------------------------------------------------------------------
