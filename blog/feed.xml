@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>/blog/</link>
+    <description>Blog</description>
+    <copyright>© All rights reserved.</copyright>
+    <lastBuildDate>Fri, 28 Jun 2024 18:30:45 GMT</lastBuildDate>
+    <generator>https://retype.com</generator>
+    <atom:link rel="self" type="application/rss+xml" href="/blog/feed.xml" />
+    <image>
+      <title>Blog</title>
+      <link>/blog/</link>
+      <url>/flower.png</url>
+    </image>
+    <item>
+      <title>Why Clinical Resources?</title>
+      <guid isPermaLink="true">/blog/20240402a/</guid>
+      <description>This is the first in a series were we will deep dive the concept and understanding of Clinical Resources and the importance to nurses, doctors and...</description>
+      <author>michael.wood@sapphirehealth.org (Michael Wood)</author>
+      <pubDate>Fri, 28 Jun 2024 18:30:45 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
