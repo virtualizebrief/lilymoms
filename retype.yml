@@ -2,8 +2,8 @@
 
 branding:
   title: Lily Moms at Redeemer              # Your custom website title; keep it short
-  logo: /files/flowers.png             # Path to a logo file
-  logoDark: /files/flowers.png    # Path to a logo file to use in dark mode
+  logo: /files/flower.png             # Path to a logo file
+  logoDark: /files/flower.png    # Path to a logo file to use in dark mode
   logoAlign: left            # Align the logo to the right or the left
   label: Evans, GA                 # Optional label
                               # To remove the label, remove this config
@@ -11,5 +11,10 @@ branding:
     label:                    # Label colors
       text: "#1F81FF"         # Custom color for the label text
       background: "#E1EDFF"   # Custom color for the label background
+
+# -----------------------------------------------------------------------------
+
+favicon: /files/flower.png   # Path to a custom favicon, or
+                              # just put a favicon.ico in your project root
 
 # -----------------------------------------------------------------------------
