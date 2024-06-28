@@ -6,6 +6,10 @@ layout: page
 
 Feel free to reachout direct.
 
-```js !# Lily Moms Support
-lilymoms@redeemerevans.org
+```js !# Lily Moms Email
+office@redeemerevans.org
+```
+
+```js !# Lily Moms Phone
+706.854.9707
 ```
