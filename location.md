@@ -2,7 +2,9 @@
 icon: milestone
 ---
 
-Redeemer Church, 2540 William Few Pkwy, Evans, GA 30809, USA
+#### Redeemer Church
+2540 William Few Pkwy
+Evans, Ga 30809
 
 <iframe 
   width="600"
