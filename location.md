@@ -8,9 +8,9 @@ Evans, Ga 30809
 !!!
 
 <iframe 
-  width="600"
+  width="100%"
   height="450"
-  style="border:0"
+  style="border:1"
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
