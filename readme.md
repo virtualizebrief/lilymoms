@@ -3,13 +3,13 @@ icon: home
 label: Welcome
 ---
 
+!!!success
+🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
+!!!
+
 ## Lily Moms at Redeemer ⛪
 
 Christian ministry that meets at Redeemer Church of Evans which supports and builds community among mothers of children from conception through kindergarten.
-
-!!! 
-🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
-!!!
 
 ## Life in the Little Years
 
