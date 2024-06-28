@@ -1,0 +1,15 @@
+# -----------------------------------------------------------------------------
+
+branding:
+  title: Lily Moms of Evans              # Your custom website title; keep it short
+  logo: /files/flowers.png             # Path to a logo file
+  logoDark: /files/flowers.png    # Path to a logo file to use in dark mode
+  logoAlign: left            # Align the logo to the right or the left
+  label: v1.0                 # Optional label
+                              # To remove the label, remove this config
+  colors:
+    label:                    # Label colors
+      text: "#1F81FF"         # Custom color for the label text
+      background: "#E1EDFF"   # Custom color for the label background
+
+# -----------------------------------------------------------------------------
