@@ -3,7 +3,7 @@ icon: home
 label: Home
 ---
 
-![](banner-flowers.jpg)
+![](files/banner-flowers.jpg)
 
 # Lily Moms at Redeemer ⛪
 
