@@ -4,12 +4,12 @@ layout: page
 
 # Contact
 
-Feel free to reachout direct.
+Feel free to reachout.
 
-```js !# Lily Moms Email
+```js !# 📨 Email
 office@redeemerevans.org
 ```
 
-```js !# Lily Moms Phone
+```js !# 📱 Phone
 706.854.9707
 ```
