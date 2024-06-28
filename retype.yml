@@ -30,15 +30,14 @@ links:                        # Custom links to add to the top bar
     icon: :blue_book:
     target: blank
 
-  - text: Contact
-    link: /contact.md # Link to an internal file
-    icon: :postbox:                # A custom icon name, :emoji:, <svg>, or
-                              # a path to a file
-                              
   - text: Redeemer Church                # The text to use for the link
     link: https://www.redeemerevans.org/ # Link to an internal file or external URL
     icon: :church:
     target: blank
+
+  - text: Contact
+    link: /contact.md # Link to an internal file
+    icon: :postbox:                # A custom icon name, :emoji:, <svg>, or
     
     iconAlign: left           # Icon alignment, to the left or right
     # target: blank             # Custom target
