@@ -25,7 +25,7 @@ links:                        # Custom links to add to the top bar
     link: / # Link to an internal file or external URL
     icon: home
   - text: Blog                # The text to use for the link
-    link: /blog # Link to an internal file or external URL
+    link: /blog/readme.md # Link to an internal file or external URL
     icon: log
   - text: Contact
     link: /getting-started.md # Link to an internal file

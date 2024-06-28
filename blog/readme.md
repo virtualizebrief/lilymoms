@@ -1,7 +1,4 @@
----
-layout: blog
----
+<img src="banner-chronicles.png" style="width: 100%" /><br>
 
-# Lily Moms Blog
-
-We share our lives with joy and love.
+#  
+---
