@@ -4,9 +4,7 @@ icon: calendar
 
 # Calendar
 
----
-
-### July 2024
+=== July 2024
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,9 +14,7 @@ icon: calendar
 |21|22|23|24|25|26|27|
 |28|29|30|31|1|2|3|
 
----
-
-### August 2024
+==- August 2024
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
