@@ -2,7 +2,7 @@
 layout: page
 ---
 
-[!button variant="primary" icon="arrow-left" iconAlign="left" text="Return to calendar"](/)
+[!button variant="primary" icon="arrow-left" iconAlign="left" text="Return to calendar"](/calendar)
 
 # Calendar event
 
