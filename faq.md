@@ -5,8 +5,6 @@ label: FAQ
 
 # Frequently asked questions
 
----
-
 #### What if I attend a different church or don’t come to church?
 Yes! We have moms from all over the area. Some don’t go to church and there are at least 12 different churches represented in our moms who come.
 
