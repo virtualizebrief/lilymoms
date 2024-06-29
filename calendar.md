@@ -6,6 +6,8 @@ icon: calendar
 
 ---
 
+### July 2024
+
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |30|1|2|3|4[10am-12pm Gathering](here.html)|5|6|
