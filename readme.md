@@ -3,9 +3,7 @@ icon: home
 label: Home
 ---
 
-<--! ![](files/banner-flowers.jpg) -->
-
-![](files/lilymoms-logo-nocaption.jpg)
+![](files/banner-flowers.jpg)
 
 # Lily Moms Redeemer ⛪
 
