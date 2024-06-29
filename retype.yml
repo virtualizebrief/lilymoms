@@ -32,7 +32,7 @@ links:                        # Custom links to add to the top bar
 
   - text: Redeemer Church                # The text to use for the link
     link: https://www.redeemerevans.org/ # Link to an internal file or external URL
-    icon: church
+    icon: 26EA
     target: blank
 
   - text: Contact
