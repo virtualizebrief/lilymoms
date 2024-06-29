@@ -4,6 +4,8 @@ icon: calendar
 
 # Calendar
 
+---
+
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |30|1|2|3|4|5|6|
