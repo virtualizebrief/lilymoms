@@ -7,6 +7,8 @@ label: Home
 
 # Lily Moms Redeemer ⛪
 
+---
+
 Christian ministry that meets at Redeemer Church of Evans which supports and builds community among mothers of children from conception through kindergarten.
 
 !!!success
