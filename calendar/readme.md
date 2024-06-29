@@ -4,7 +4,7 @@ icon: calendar
 
 # Calendar
 
-=== :calendar: July 2024
+=== :calendar: 2024 July
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -14,7 +14,7 @@ icon: calendar
 |21|22|23|24|25|26|27|
 |28|29|30|31|1|2|3|
 
-==- :calendar: August 2024
+==- :calendar: 2024 August
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -24,7 +24,7 @@ icon: calendar
 |21|22|23|24|25|26|27|
 |28|29|30|31|1|2|3|
 
-==- :calendar: September 2024
+==- :calendar: 2024 September 
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
