@@ -2,7 +2,7 @@
 icon: calendar
 ---
 
-# Calendar
+# Calendar :calendar:
 
 === July 2024
 
