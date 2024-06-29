@@ -2,9 +2,11 @@
 layout: page
 ---
 
-[!button variant="primary" icon="paper-airplane" iconAlign="left" text="Return to calendar"]
+[!button variant="primary" icon="arrow-left" iconAlign="left" text="Return to calendar"]
 
-# Play at park
+# Calendar event
+
+### Play at park
 
 - Date: July 19th 2024
 - Where: Evans Town Center park
