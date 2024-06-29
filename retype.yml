@@ -2,8 +2,8 @@
 
 branding:
   title:               # Your custom website title; keep it short
-  logo: /files/lilymoms-logo-nocaption.jpg.png             # Path to a logo file
-  logoDark: /files/lilymoms-logo-nocaption.jpg.png    # Path to a logo file to use in dark mode
+  logo: /files/lilymoms-logo-nocaption.jpg             # Path to a logo file
+  logoDark: /files/lilymoms-logo-nocaption.jpg    # Path to a logo file to use in dark mode
   logoAlign: left            # Align the logo to the right or the left
   label: Evans, Georgia                 # Optional label
                               # To remove the label, remove this config
