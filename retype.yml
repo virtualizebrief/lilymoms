@@ -37,7 +37,7 @@ links:                        # Custom links to add to the top bar
 
   - text: Contact
     link: /contact.md # Link to an internal file
-    icon: postbox                # A custom icon name, :emoji:, <svg>, or
+    icon: mail                # A custom icon name, :emoji:, <svg>, or
     
     iconAlign: left           # Icon alignment, to the left or right
     # target: blank             # Custom target
