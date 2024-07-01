@@ -1,23 +1,9 @@
 ---
-icon: home
-label: Home
+icon: bookmark
+visibility: hidden
 ---
 
-![](files/banner-flowers.jpg)
-
-# Lily Moms Redeemer ⛪
-
-!!!danger Site under construction
-We are building this site out as an alternative to our facebook page. As of now for up to date information please visit facebook and for those without facebook we hope to have this site completed soon. -Contruction Team
-!!!
-
-Christian ministry that meets at Redeemer Church of Evans which supports and builds community among mothers of children from conception through kindergarten.
-
-!!!success
-🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
-!!!
-
-## Where to learn more about us
+# Bookmarks
 
 <!-- Blog --><a href='https://lilymomsredeemer.com/blog/' target=”_blank”><button class="StoreButton"><img src="/files/icon-grafana.png" width="64" height="64"><br><br><font size="3px">Analytics</b><br><font color="#888888">Grafana</font></font></button></a>
 <!-- Calendar --><a href='https://lilymomsredeemer.com/calendar/' target=”_blank”><button class="StoreButton"><img src="/files/icon-workspace.png" width="64" height="64"><br><br><font size="3px">Apps & Desktops</b><br><font color="#888888">Citrix</font></font></button></a>
@@ -25,12 +11,12 @@ Christian ministry that meets at Redeemer Church of Evans which supports and bui
 
 ---
 
-💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please feel welcomed to reach out.
+Think of something you'd like added? [!badge icon="mail" text="Contact"](../contact.md)
 
-[!button icon="mail" text="Contact"](contact.md)
 
 
 <!-- html code -->
+
 <style>
 table, td, tr, th {
   vertical-align: top;
@@ -65,5 +51,3 @@ p {
    display:inline;
 }
 </style>
-
-
