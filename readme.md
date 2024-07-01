@@ -25,7 +25,7 @@ Christian ministry that meets at Redeemer Church of Evans which supports and bui
 
 ---
 
-💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please feel welcomed to reach out.
+💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please feel welcomed to reach out. <br><br>
 
 [!button icon="mail" text="Contact"](contact.md)
 
