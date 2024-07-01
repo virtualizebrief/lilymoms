@@ -11,7 +11,7 @@ Christian ministry that meets at Redeemer Church of Evans Georgia which supports
 
 This season of motherhood is full of messy moments and we are all learning to navigate what it means to raise small children. When we meet, we talk about topics that are related to this stage of our lives. We talk about how to care for our kids, our homes, famlies and ourselves.<br><br>
 
-💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please feel welcomed to reach out. <br><br>
+💖 We hope you’ll join us! No one should journey through this season alone. We would love to hear from you. <br><br>
 
 [!button icon="mail" text="Contact"](contact.md)
 
