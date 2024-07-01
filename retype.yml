@@ -46,19 +46,10 @@ links:                        # Custom links to add to the top bar
 # -----------------------------------------------------------------------------
 
 footer:
-  copyright: "© All rights reserved." # A custom copyright statement
-  links:                      # A list of links to include in the footer
-                              # See also: links
-    - text: License           # The text to use for the link
-      link: license.md        # Point to an internal file or external URL
-
-# -----------------------------------------------------------------------------
-
-footer:
   copyright: "Made with ❤ by Virtualize Brief" # A custom copyright statement
   links:                      # A list of links to include in the footer
                               # See also: links
-    # - text: Learn more           # The text to use for the link
-    #   link: https://marketplace.woodcloud.one/    # Point to an internal file or external URL
+     - text: Learn more           # The text to use for the link
+       link: https://marketplace.woodcloud.one/    # Point to an internal file or external URL
 
 # -----------------------------------------------------------------------------
