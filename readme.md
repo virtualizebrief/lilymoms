@@ -7,11 +7,9 @@ label: Home
 
 # Lily Moms Redeemer ⛪
 
-!!!success
-🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
-!!!
-
 Christian ministry that meets at Redeemer Church of Evans Georgia which supports and builds community among mothers of children from conception through kindergarten.<br><br>
+
+This season of motherhood is full of messy moments and we are all learning to navigate what it means to raise small children. When we meet, we talk about topics that are related to this stage of our lives. We talk about how to care for our kids, our homes, famlies and ourselves.
 
 💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please feel welcomed to reach out. <br><br>
 
@@ -66,6 +64,10 @@ p {
 
 !!!danger Site under construction
 We are building this site out as an alternative to our facebook page. As of now for up to date information please visit facebook and for those without facebook we hope to have this site completed soon. -Contruction Team
+!!!
+
+!!!success
+🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
 !!!
 
 -->
