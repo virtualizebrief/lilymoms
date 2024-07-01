@@ -8,6 +8,8 @@ layout: page
 
 ### Play at park
 
+![](files/20240719-playatpark-pic1.jpg)
+
 - Date: July 19th 2024
 - Time: 10:00am to 12:00pm
 - Where: Evans Town Center park
