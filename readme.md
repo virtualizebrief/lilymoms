@@ -17,6 +17,8 @@ Christian ministry that meets at Redeemer Church of Evans which supports and bui
 🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
 !!!
 
+---
+
 ## Learn more about us and our events 🤗
 
 <!-- Blog --><a href='https://lilymomsredeemer.com/blog/' target=”_blank”><button class="StoreButton"><img src="/files/icon-cloud.png" width="64" height="64"><br><br><font size="3px">Blog</b><br><font color="#888888">Postings</font></font></button></a>
