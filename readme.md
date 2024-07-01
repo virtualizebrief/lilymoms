@@ -11,7 +11,7 @@ label: Home
 🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
 !!!
 
-Christian ministry that meets at Redeemer Church of Evans which supports and builds community among mothers of children from conception through kindergarten.<br><br>
+Christian ministry that meets at Redeemer Church of Evans Georgia which supports and builds community among mothers of children from conception through kindergarten.<br><br>
 
 💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please feel welcomed to reach out. <br><br>
 

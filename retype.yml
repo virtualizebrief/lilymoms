@@ -25,7 +25,7 @@ links:                        # Custom links to add to the top bar
     link: / # Link to an internal file or external URL
     icon: home
 
-  - text: Facebook                # The text to use for the link
+  - text: Facebook ↓               # The text to use for the link
     link: https://www.facebook.com/p/Lily-Moms-at-Redeemer-100068504359386 # Link to an internal file or external URL
     icon: book
     target: blank
