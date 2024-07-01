@@ -24,7 +24,7 @@ Christian ministry that meets at Redeemer Church of Evans which supports and bui
 <!-- Blog --><a href='https://lilymomsredeemer.com/blog/' target=”_blank”><button class="StoreButton"><img src="/files/icon-blog.png" width="64" height="64"><br><br><font size="3px">Blog</b><br><font color="#888888">Postings</font></font></button></a>
 <!-- Calendar --><a href='https://lilymomsredeemer.com/calendar/' target=”_blank”><button class="StoreButton"><img src="/files/icon-calendar.png" width="64" height="64"><br><br><font size="3px">Calendar</b><br><font color="#888888">Events</font></font></button></a>
 <!-- FAQ --><a href='https://lilymomsredeemer.com/faq/' target=”_blank”><button class="StoreButton"><img src="/files/icon-faq.png" width="64" height="64"><br><br><font size="3px">FAQ</b><br><font color="#888888">Questions</font></font></button></a>
-
+<!-- Location --><a href='https://lilymomsredeemer.com/location/' target=”_blank”><button class="StoreButton"><img src="/files/icon-location.png" width="64" height="64"><br><br><font size="3px">Location</b><br><font color="#888888">Evans, GA</font></font></button></a>
 
 <!-- html code -->
 <style>
