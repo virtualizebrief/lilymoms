@@ -30,7 +30,7 @@ links:                        # Custom links to add to the top bar
     icon: book
     target: blank
 
-  - text: Redeemer Church                # The text to use for the link
+  - text: Redeemer Church &#x2197;              # The text to use for the link
     link: https://www.redeemerevans.org/ # Link to an internal file or external URL
     icon: organization
     target: blank
