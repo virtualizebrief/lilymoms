@@ -70,6 +70,9 @@ We are building this site out as an alternative to our facebook page. As of now 
 🤰 If you are pregnant with your first child or if your last child is beginning his/her kindergarten year, you are a Lily mom and we welcome you!
 !!!
 
+We also talk about how friendships look different during this season and how we can make sure that we have vibrant friendships even with spit-up stains on our shirts and our eyes stinging from lack of 🥱 sleep.
+
+
 -->
 
 
