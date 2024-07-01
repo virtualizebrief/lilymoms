@@ -19,14 +19,16 @@ Christian ministry that meets at Redeemer Church of Evans which supports and bui
 
 ## Where to find information
 
-### Blog
+#### :log: Blog
 Stay up to date with our most recent post. Topics cover ideas on motherhood to post about up and coming events.
 
-### Frequently ask questions
+#### :calendar: Calendar
+List of events and regular Lily Moms meetings.
+
+#### :question: Frequently ask questions
 Most commmon things people want to know.
 
-### Calendar
-List of events and regular Lily Moms meetings.
+---
 
 💖 We hope you’ll join us! No one should journey through this season alone. If you have any questions please feel welcomed to reach out.
 
