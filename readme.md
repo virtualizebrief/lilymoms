@@ -7,10 +7,6 @@ label: Home
 
 # Lily Moms Redeemer ⛪
 
-!!!danger Site under construction
-We are building this site out as an alternative to our facebook page. As of now for up to date information please visit facebook and for those without facebook we hope to have this site completed soon. -Contruction Team
-!!!
-
 Christian ministry that meets at Redeemer Church of Evans which supports and builds community among mothers of children from conception through kindergarten.<br><br>
 
 !!!success
@@ -67,5 +63,13 @@ p {
    display:inline;
 }
 </style>
+
+<!-- unused text
+
+!!!danger Site under construction
+We are building this site out as an alternative to our facebook page. As of now for up to date information please visit facebook and for those without facebook we hope to have this site completed soon. -Contruction Team
+!!!
+
+-->
 
 

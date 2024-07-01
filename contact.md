@@ -9,7 +9,7 @@ layout: page
 If you have any questions please do reach out to us.
 
 ```js !# 📨 Email
-office@redeemerevans.org
+lilymoms@redeemerevans.org
 ```
 
 ```js !# 📱 Phone
