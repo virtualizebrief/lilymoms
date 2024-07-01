@@ -20,7 +20,7 @@ Christian ministry that meets at Redeemer Church of Evans which supports and bui
 ## Where to learn more about us
 
 <!-- Blog --><a href='https://lilymomsredeemer.com/blog/' target=”_blank”><button class="StoreButton"><img src="/files/icon-cloud.png" width="64" height="64"><br><br><font size="3px">Blog</b><br><font color="#888888">Postings</font></font></button></a>
-<!-- Calendar --><a href='https://lilymomsredeemer.com/calendar/' target=”_blank”><button class="StoreButton"><img src="/files/icon-cloud.png" width="64" height="64"><br><br><font size="3px">Calendar</b><br><font color="#888888">Events & Gatherings</font></font></button></a>
+<!-- Calendar --><a href='https://lilymomsredeemer.com/calendar/' target=”_blank”><button class="StoreButton"><img src="/files/icon-cloud.png" width="64" height="64"><br><br><font size="3px">Calendar</b><br><font color="#888888">Events</font></font></button></a>
 <!-- FAQ --><a href='https://lilymomsredeemer.com/faq/' target=”_blank”><button class="StoreButton"><img src="/files/icon-cloud.png" width="64" height="64"><br><br><font size="3px">FAQ</b><br><font color="#888888">Q & A's</font></font></button></a>
 
 ---
