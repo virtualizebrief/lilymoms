@@ -30,7 +30,7 @@ table, td, tr, th {
   vertical-align: top;
 }
 .StoreButton {
-  height:190px; width:150px;
+  height:190px; width:140px;
   /* background-color:#ffffff; */
   margin-top: 8px;
   margin-bottom: 8px;
