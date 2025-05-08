@@ -5,15 +5,15 @@
 - Total time: 45 minutes
 
 ||| Ingredients
-1 1/2 cup milk (anything but skim)
-2 large eggs
-1/2 cup maple syrup or packed light-brown sugar
-1/4 cup butter, melted
-1 1/2 tsp baking powder
-1 1/2 tsp vanilla
-1 tsp cinnamon
-1/4 tsp salt
-3 cups rolled oats (or quick oats
+- 1 1/2 cup milk (anything but skim)
+- 2 large eggs
+- 1/2 cup maple syrup or packed light-brown sugar
+- 1/4 cup butter, melted
+- 1 1/2 tsp baking powder
+- 1 1/2 tsp vanilla
+- 1 tsp cinnamon
+- 1/4 tsp salt
+- 3 cups rolled oats (or quick oats
 |||
 
 ## Directions
