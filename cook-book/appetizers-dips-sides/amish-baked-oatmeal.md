@@ -1,8 +1,10 @@
 # Amish Baked Oatmeal
 
+!!!info
 - Servings: 8
 - Prep time: 10 minutes
 - Total time: 45 minutes
+!!!
 
 ||| Ingredients
 - 1 1/2 cup milk (anything but skim)
