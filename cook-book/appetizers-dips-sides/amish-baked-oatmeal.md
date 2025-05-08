@@ -1,12 +1,10 @@
 # Amish Baked Oatmeal
 
-!!!info
 - Servings: 8
 - Prep time: 10 minutes
 - Total time: 45 minutes
-!!!
 
-||| Ingredients
+## Ingredients
 - 1 1/2 cup milk (anything but skim)
 - 2 large eggs
 - 1/2 cup maple syrup or packed light-brown sugar
@@ -16,7 +14,6 @@
 - 1 tsp cinnamon
 - 1/4 tsp salt
 - 3 cups rolled oats (or quick oats
-|||
 
 ## Directions
 
